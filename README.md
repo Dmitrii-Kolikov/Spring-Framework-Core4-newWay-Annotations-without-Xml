@@ -19,3 +19,9 @@
 Аннотация @Scope("Singleton") и @Scope("prototype")
 
 Аннотация @PostConstruct(init-method) и @PreDestroy(destroy-method)
+
+Аннотация @Configuration помечает Java класс, который мы хотим использовать для конфигураций Spring приложения
+
+Аннотация @ComponentScan указываем сканировать наш текущий пакет и все его подпакеты.
+
+Аннотация @PropertySource  считывает наш файл с данными.
